@@ -2,7 +2,7 @@
 
 ## Versions
 
-firebase-tools: v13.21.1<br>
+firebase-tools: v13.31.1<br>
 dependencies:
 
 ```
